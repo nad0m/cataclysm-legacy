@@ -1,0 +1,29 @@
+{
+  "name": "cataclysm",
+  "version": "1.0.0",
+  "description": "Cataclysm is a four-player game in which three player-controlled Heroes take on a single powerful player-controlled Villain. The Heroes and the Villain take turns moving around a grid using customizable combinations of equipped abilities to defeat their respective adversary. The game ends when one of the two parties defeats the other.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swiftstrife/Cataclysm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swiftstrife/Cataclysm/issues"
+  },
+  "homepage": "https://github.com/swiftstrife/Cataclysm#readme",
+  "dependencies": {
+    "app": "^0.1.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mysql": "^2.14.0",
+    "nodemailer": "^4.0.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
