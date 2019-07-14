@@ -28,7 +28,7 @@ Each character also has a certain amount of health (HP). When a character’s HP
 
 Not only do characters have these stats, each character card features a unique Special and two Talents. The Special is a “passive effect” that costs nothing and always affects the character. The two Talents are low-cost active effects unique to that character.
 
-### THE CARDS - ABILTIES
+### THE CARDS - ABILITIES
 Every player has a “loadout” with four slots to add powerful and interesting ability cards to augment their character. They have many different descriptions and effects, but they share three common attributes:
 
 POWER: the strength of the ability
