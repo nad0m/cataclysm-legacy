@@ -18,8 +18,8 @@
   "homepage": "https://github.com/swiftstrife/Cataclysm#readme",
   "dependencies": {
     "app": "^0.1.0",
-    "body-parser": "^1.17.2",
-    "express": "^4.15.3",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mysql": "^2.14.0",
     "nodemailer": "^4.0.1",
     "passport": "^0.3.2",
